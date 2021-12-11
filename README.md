@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielBerechet
+- 👀 I’m interested in Python Development/ Machine Learning/ Artificial Intelligence/ Blockchain Technology
+- 🌱 I’m currently learning Python Development
+- 💞️ I’m looking to collaborate on Python Projects
+- 📫 How to reach me georgedaniel.berechet@gmail.com 
